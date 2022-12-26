@@ -1,3 +1,5 @@
+Collection of exercise solved in school (Develhope) to deepen my knowledge of Java
+
 # Exercise: 1-abstraction-override
 * define an abstract class called `Vehicle` that has:
   * a string attribute `type`
